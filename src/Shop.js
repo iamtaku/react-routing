@@ -19,7 +19,7 @@ function Shop() {
     setItems(itemsMapped);
   };
   // console.log(items);
-  items.forEach((item) => console.log(item.itemId));
+  // items.forEach((item) => console.log(item.itemId));
   return (
     <div>
       {items.map((item) => (

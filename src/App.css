@@ -9,6 +9,10 @@ nav {
   background: lightblue;
 }
 
+body {
+  background-color: black;
+}
+
 .navlinks {
   display: flex;
   width: 50%;
